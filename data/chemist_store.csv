@@ -1,0 +1,301 @@
+Invoice_ID,Date,Customer_ID,Gender,Age,Medicine_Name,Category,Brand,Quantity,Unit_Price,Discount,Total_Price,Payment_Method,Supplier,Stock,Expiry_Date,City
+INV0001,2025-01-20,CUST033,Male,57,ORS,Hydration,Mankind,3,250,0,750.0,Card,CareDist,143,2026-06-23,Siliguri
+INV0002,2025-02-24,CUST067,Male,27,Omeprazole,Gastric,Dr. Reddy's,4,120,10,432.0,Card,HealthPlus,80,2026-06-17,Kolkata
+INV0003,2025-03-19,CUST105,Female,74,Vitamin C,Vitamin,Cipla,3,35,15,89.25,Card,PharmaLink,123,2026-10-08,Durgapur
+INV0004,2025-01-07,CUST032,Female,22,Pantoprazole,Gastric,Abbott,4,50,10,180.0,Card,CareDist,94,2026-01-16,Siliguri
+INV0005,2025-04-08,CUST080,Female,61,Paracetamol,Pain Relief,Dr. Reddy's,1,50,10,45.0,Cash,PharmaLink,175,2026-12-05,Kolkata
+INV0006,2025-04-14,CUST051,Male,21,Cetirizine,Allergy,Mankind,5,50,0,250.0,UPI,PharmaLink,194,2026-03-16,Howrah
+INV0007,2025-03-05,CUST101,Female,34,Pantoprazole,Gastric,Sun Pharma,1,250,5,237.5,Card,PharmaLink,164,2026-10-08,Siliguri
+INV0008,2025-03-08,CUST078,Female,49,Paracetamol,Pain Relief,Dr. Reddy's,2,75,0,150.0,UPI,CareDist,176,2026-04-25,Kolkata
+INV0009,2025-05-27,CUST073,Female,33,Paracetamol,Pain Relief,Pfizer,2,50,15,85.0,Cash,HealthPlus,84,2026-11-28,Durgapur
+INV0010,2025-05-16,CUST013,Male,60,ORS,Hydration,Mankind,4,250,15,850.0,Cash,CareDist,176,2027-01-01,Siliguri
+INV0011,2025-01-26,CUST025,Male,45,Dolo 650,Pain Relief,Dr. Reddy's,1,75,10,67.5,Card,HealthPlus,188,2026-11-30,Durgapur
+INV0012,2025-05-25,CUST064,Female,22,Paracetamol,Pain Relief,Pfizer,1,35,5,33.25,UPI,MediSupply,83,2026-03-09,Durgapur
+INV0013,2025-04-21,CUST049,Female,23,Dolo 650,Pain Relief,Cipla,4,250,5,950.0,Card,PharmaLink,53,2026-06-18,Durgapur
+INV0014,2025-06-11,CUST110,Female,51,Amoxicillin,Antibiotic,Mankind,3,250,15,637.5,Card,HealthPlus,141,2026-03-05,Kolkata
+INV0015,2025-06-14,CUST053,Male,53,Amoxicillin,Antibiotic,Abbott,4,20,10,72.0,Card,HealthPlus,30,2026-01-30,Durgapur
+INV0016,2025-05-04,CUST083,Female,57,Pantoprazole,Gastric,Mankind,5,180,0,900.0,UPI,MediSupply,191,2026-11-28,Siliguri
+INV0017,2025-05-16,CUST113,Male,74,Vitamin C,Vitamin,Sun Pharma,3,250,10,675.0,Cash,HealthPlus,66,2026-09-20,Howrah
+INV0018,2025-05-05,CUST022,Male,34,Paracetamol,Pain Relief,Abbott,4,20,5,76.0,Cash,MediSupply,75,2026-11-27,Howrah
+INV0019,2025-03-24,CUST094,Male,33,Crocin,Pain Relief,Mankind,3,20,10,54.0,Card,PharmaLink,73,2026-12-20,Kolkata
+INV0020,2025-06-18,CUST016,Female,59,Paracetamol,Pain Relief,Sun Pharma,5,35,10,157.5,Cash,PharmaLink,138,2026-10-19,Siliguri
+INV0021,2025-04-22,CUST093,Female,32,Omeprazole,Gastric,Mankind,4,75,0,300.0,Cash,MediSupply,144,2026-05-12,Howrah
+INV0022,2025-04-28,CUST065,Male,23,Azithromycin,Antibiotic,Dr. Reddy's,5,35,10,157.5,Card,HealthPlus,79,2026-03-20,Howrah
+INV0023,2025-02-20,CUST107,Female,70,Azithromycin,Antibiotic,Mankind,5,50,0,250.0,UPI,HealthPlus,136,2026-06-30,Kolkata
+INV0024,2025-05-04,CUST118,Male,34,Cetirizine,Allergy,Abbott,1,75,15,63.75,Cash,HealthPlus,178,2026-03-23,Howrah
+INV0025,2025-01-28,CUST024,Female,70,Dolo 650,Pain Relief,Cipla,1,75,0,75.0,Card,PharmaLink,5,2026-01-14,Kolkata
+INV0026,2025-06-04,CUST106,Female,73,Dolo 650,Pain Relief,Pfizer,2,250,5,475.0,Cash,CareDist,20,2026-05-26,Kolkata
+INV0027,2025-06-17,CUST087,Female,37,Azithromycin,Antibiotic,Dr. Reddy's,4,120,15,408.0,Cash,PharmaLink,140,2026-07-05,Durgapur
+INV0028,2025-02-09,CUST029,Female,67,Vitamin C,Vitamin,Dr. Reddy's,3,20,0,60.0,Cash,PharmaLink,9,2026-11-10,Kolkata
+INV0029,2025-05-31,CUST041,Male,64,Dolo 650,Pain Relief,Mankind,5,75,10,337.5,Cash,PharmaLink,157,2026-09-12,Durgapur
+INV0030,2025-02-17,CUST024,Male,31,Vitamin C,Vitamin,Mankind,2,35,15,59.5,UPI,MediSupply,138,2026-12-27,Durgapur
+INV0031,2025-06-27,CUST116,Female,52,Pantoprazole,Gastric,Dr. Reddy's,2,180,15,306.0,Card,CareDist,168,2026-08-14,Durgapur
+INV0032,2025-05-24,CUST082,Male,36,Vitamin C,Vitamin,Mankind,1,120,15,102.0,UPI,HealthPlus,135,2026-02-24,Siliguri
+INV0033,2025-05-11,CUST096,Male,58,Paracetamol,Pain Relief,Dr. Reddy's,5,35,10,157.5,UPI,MediSupply,198,2026-12-19,Howrah
+INV0034,2025-01-15,CUST047,Female,53,Azithromycin,Antibiotic,Abbott,3,180,0,540.0,UPI,CareDist,92,2026-08-16,Kolkata
+INV0035,2025-03-12,CUST009,Male,52,Pantoprazole,Gastric,Cipla,2,75,5,142.5,Card,MediSupply,102,2026-02-08,Durgapur
+INV0036,2025-04-18,CUST048,Male,52,Dolo 650,Pain Relief,Mankind,3,180,10,486.0,Cash,HealthPlus,154,2026-02-16,Siliguri
+INV0037,2025-04-03,CUST053,Female,18,Cetirizine,Allergy,Cipla,4,120,15,408.0,UPI,CareDist,54,2026-03-21,Siliguri
+INV0038,2025-05-16,CUST074,Male,46,Crocin,Pain Relief,Sun Pharma,1,75,0,75.0,Cash,MediSupply,29,2026-01-09,Howrah
+INV0039,2025-04-05,CUST055,Female,39,Omeprazole,Gastric,Cipla,3,180,10,486.0,Card,PharmaLink,120,2026-09-22,Durgapur
+INV0040,2025-05-30,CUST117,Female,58,Pantoprazole,Gastric,Pfizer,1,250,0,250.0,Cash,CareDist,16,2026-05-17,Siliguri
+INV0041,2025-02-05,CUST039,Male,75,Azithromycin,Antibiotic,Dr. Reddy's,5,250,15,1062.5,Card,CareDist,37,2026-03-18,Siliguri
+INV0042,2025-04-28,CUST055,Female,21,Cetirizine,Allergy,Pfizer,1,120,0,120.0,Card,CareDist,45,2026-09-05,Durgapur
+INV0043,2025-04-11,CUST012,Male,56,Cetirizine,Allergy,Pfizer,2,250,0,500.0,Card,HealthPlus,37,2026-08-05,Howrah
+INV0044,2025-05-15,CUST080,Male,21,Cetirizine,Allergy,Pfizer,3,50,0,150.0,Card,CareDist,101,2026-02-07,Siliguri
+INV0045,2025-04-20,CUST114,Male,30,Crocin,Pain Relief,Abbott,3,180,10,486.0,Card,CareDist,199,2026-02-02,Durgapur
+INV0046,2025-02-22,CUST035,Male,53,Omeprazole,Gastric,Pfizer,1,250,5,237.5,Card,HealthPlus,196,2026-12-19,Howrah
+INV0047,2025-01-23,CUST089,Male,27,Dolo 650,Pain Relief,Abbott,5,120,15,510.0,Cash,CareDist,177,2026-01-18,Kolkata
+INV0048,2025-03-28,CUST036,Male,62,Vitamin C,Vitamin,Abbott,5,20,0,100.0,Cash,CareDist,86,2026-05-19,Durgapur
+INV0049,2025-02-22,CUST040,Male,54,Dolo 650,Pain Relief,Mankind,3,75,10,202.5,UPI,CareDist,117,2026-10-01,Durgapur
+INV0050,2025-02-25,CUST080,Male,59,Azithromycin,Antibiotic,Pfizer,5,180,5,855.0,UPI,PharmaLink,9,2026-03-16,Siliguri
+INV0051,2025-01-31,CUST018,Male,35,ORS,Hydration,Mankind,3,120,5,342.0,Cash,PharmaLink,27,2026-03-21,Durgapur
+INV0052,2025-05-07,CUST022,Female,29,Dolo 650,Pain Relief,Pfizer,1,20,0,20.0,UPI,CareDist,115,2026-10-05,Siliguri
+INV0053,2025-04-07,CUST064,Male,19,Dolo 650,Pain Relief,Dr. Reddy's,5,180,15,765.0,Card,HealthPlus,32,2026-04-21,Kolkata
+INV0054,2025-02-20,CUST024,Male,18,Pantoprazole,Gastric,Pfizer,2,35,0,70.0,Card,MediSupply,62,2026-01-04,Durgapur
+INV0055,2025-04-07,CUST088,Female,66,Crocin,Pain Relief,Dr. Reddy's,3,180,15,459.0,Cash,HealthPlus,113,2026-01-14,Durgapur
+INV0056,2025-01-24,CUST103,Male,43,Cetirizine,Allergy,Abbott,1,35,15,29.75,Card,MediSupply,169,2026-06-03,Durgapur
+INV0057,2025-04-21,CUST035,Male,60,Amoxicillin,Antibiotic,Sun Pharma,2,35,5,66.5,UPI,HealthPlus,129,2026-06-13,Siliguri
+INV0058,2025-01-11,CUST093,Male,56,Cetirizine,Allergy,Cipla,3,20,10,54.0,UPI,PharmaLink,123,2026-05-07,Durgapur
+INV0059,2025-02-13,CUST081,Male,50,Amoxicillin,Antibiotic,Abbott,4,50,5,190.0,Cash,CareDist,120,2026-01-06,Kolkata
+INV0060,2025-06-29,CUST037,Male,51,Crocin,Pain Relief,Sun Pharma,4,35,10,126.0,Cash,CareDist,32,2026-09-28,Durgapur
+INV0061,2025-05-12,CUST030,Female,65,Pantoprazole,Gastric,Dr. Reddy's,1,35,10,31.5,Card,MediSupply,64,2026-10-12,Howrah
+INV0062,2025-05-25,CUST049,Female,34,Cetirizine,Allergy,Sun Pharma,2,180,5,342.0,UPI,HealthPlus,50,2026-11-17,Kolkata
+INV0063,2025-01-07,CUST027,Male,43,Vitamin C,Vitamin,Pfizer,1,120,15,102.0,UPI,MediSupply,167,2026-03-09,Howrah
+INV0064,2025-03-05,CUST006,Female,24,Crocin,Pain Relief,Mankind,5,120,0,600.0,Cash,PharmaLink,154,2026-12-03,Howrah
+INV0065,2025-04-15,CUST054,Male,72,Cetirizine,Allergy,Sun Pharma,2,120,15,204.0,UPI,CareDist,9,2026-10-09,Howrah
+INV0066,2025-02-10,CUST118,Male,57,Azithromycin,Antibiotic,Pfizer,1,180,15,153.0,UPI,CareDist,16,2026-05-05,Kolkata
+INV0067,2025-05-31,CUST052,Male,63,Omeprazole,Gastric,Pfizer,2,120,10,216.0,Cash,PharmaLink,166,2026-05-31,Kolkata
+INV0068,2025-06-17,CUST086,Female,32,ORS,Hydration,Sun Pharma,3,120,15,306.0,Card,HealthPlus,20,2026-10-19,Durgapur
+INV0069,2025-04-26,CUST111,Male,39,Dolo 650,Pain Relief,Dr. Reddy's,1,20,10,18.0,UPI,HealthPlus,8,2026-03-10,Kolkata
+INV0070,2025-02-18,CUST067,Male,42,Cetirizine,Allergy,Cipla,5,75,0,375.0,Card,CareDist,139,2026-03-11,Durgapur
+INV0071,2025-02-09,CUST087,Female,33,Omeprazole,Gastric,Cipla,4,75,15,255.0,UPI,HealthPlus,42,2026-09-27,Kolkata
+INV0072,2025-03-12,CUST052,Male,45,ORS,Hydration,Abbott,1,75,15,63.75,Cash,HealthPlus,142,2026-11-02,Howrah
+INV0073,2025-03-07,CUST090,Female,52,Crocin,Pain Relief,Dr. Reddy's,1,35,10,31.5,UPI,CareDist,85,2026-07-17,Howrah
+INV0074,2025-04-29,CUST116,Female,58,Omeprazole,Gastric,Pfizer,2,20,15,34.0,UPI,CareDist,91,2026-01-10,Howrah
+INV0075,2025-03-21,CUST063,Female,70,Azithromycin,Antibiotic,Abbott,1,180,0,180.0,Card,PharmaLink,5,2026-11-06,Durgapur
+INV0076,2025-06-24,CUST089,Male,23,ORS,Hydration,Cipla,3,180,0,540.0,Card,HealthPlus,160,2026-01-15,Siliguri
+INV0077,2025-05-20,CUST106,Male,45,Dolo 650,Pain Relief,Sun Pharma,1,120,15,102.0,Card,MediSupply,109,2026-12-30,Durgapur
+INV0078,2025-03-19,CUST120,Male,72,Azithromycin,Antibiotic,Cipla,2,75,10,135.0,Card,HealthPlus,157,2026-11-10,Kolkata
+INV0079,2025-02-05,CUST059,Female,31,Vitamin C,Vitamin,Sun Pharma,3,20,5,57.0,Card,PharmaLink,77,2026-08-07,Howrah
+INV0080,2025-02-18,CUST104,Male,71,Cetirizine,Allergy,Cipla,2,180,5,342.0,UPI,PharmaLink,78,2026-10-06,Durgapur
+INV0081,2025-04-20,CUST098,Female,47,Paracetamol,Pain Relief,Cipla,1,20,10,18.0,Cash,CareDist,52,2026-04-11,Durgapur
+INV0082,2025-06-22,CUST075,Female,29,Crocin,Pain Relief,Pfizer,4,75,10,270.0,Card,PharmaLink,180,2026-10-11,Howrah
+INV0083,2025-04-15,CUST113,Male,19,Cetirizine,Allergy,Abbott,3,20,10,54.0,Card,HealthPlus,81,2026-07-19,Kolkata
+INV0084,2025-06-17,CUST064,Female,22,Paracetamol,Pain Relief,Abbott,3,180,10,486.0,UPI,PharmaLink,128,2026-11-16,Kolkata
+INV0085,2025-01-25,CUST071,Female,27,Omeprazole,Gastric,Cipla,1,50,5,47.5,Cash,HealthPlus,151,2026-06-22,Howrah
+INV0086,2025-03-03,CUST002,Female,52,Vitamin C,Vitamin,Sun Pharma,2,180,0,360.0,UPI,HealthPlus,154,2026-09-06,Kolkata
+INV0087,2025-02-23,CUST070,Female,71,Pantoprazole,Gastric,Cipla,2,75,10,135.0,UPI,MediSupply,6,2026-06-23,Siliguri
+INV0088,2025-06-28,CUST048,Male,39,ORS,Hydration,Cipla,5,75,10,337.5,UPI,PharmaLink,178,2026-06-23,Siliguri
+INV0089,2025-06-15,CUST109,Male,28,Dolo 650,Pain Relief,Dr. Reddy's,2,180,15,306.0,Card,CareDist,200,2026-10-28,Durgapur
+INV0090,2025-04-21,CUST083,Male,48,Crocin,Pain Relief,Abbott,4,180,5,684.0,UPI,CareDist,74,2026-12-17,Siliguri
+INV0091,2025-02-08,CUST111,Female,18,Dolo 650,Pain Relief,Cipla,3,35,10,94.5,Cash,CareDist,157,2026-10-28,Durgapur
+INV0092,2025-06-18,CUST109,Female,28,Pantoprazole,Gastric,Cipla,5,75,10,337.5,UPI,HealthPlus,12,2026-06-29,Durgapur
+INV0093,2025-02-01,CUST117,Female,60,Paracetamol,Pain Relief,Abbott,4,250,0,1000.0,Card,MediSupply,34,2026-03-20,Siliguri
+INV0094,2025-01-05,CUST095,Female,27,Pantoprazole,Gastric,Cipla,5,120,15,510.0,Card,HealthPlus,141,2026-04-15,Siliguri
+INV0095,2025-04-10,CUST068,Female,63,Omeprazole,Gastric,Sun Pharma,1,75,5,71.25,UPI,MediSupply,69,2026-09-18,Howrah
+INV0096,2025-04-30,CUST072,Male,59,Pantoprazole,Gastric,Cipla,4,50,10,180.0,Card,CareDist,157,2026-02-03,Siliguri
+INV0097,2025-06-19,CUST025,Male,69,Dolo 650,Pain Relief,Dr. Reddy's,5,50,0,250.0,Cash,HealthPlus,191,2026-09-27,Siliguri
+INV0098,2025-03-20,CUST083,Female,61,Paracetamol,Pain Relief,Cipla,3,120,15,306.0,Card,HealthPlus,31,2026-01-25,Kolkata
+INV0099,2025-06-01,CUST030,Male,64,Cetirizine,Allergy,Sun Pharma,4,50,5,190.0,Card,PharmaLink,137,2026-10-01,Kolkata
+INV0100,2025-03-20,CUST055,Male,46,ORS,Hydration,Dr. Reddy's,4,120,5,456.0,Card,MediSupply,165,2026-12-01,Durgapur
+INV0101,2025-04-09,CUST111,Male,43,Cetirizine,Allergy,Pfizer,2,180,5,342.0,Card,CareDist,160,2026-09-01,Siliguri
+INV0102,2025-01-16,CUST092,Male,40,Cetirizine,Allergy,Dr. Reddy's,5,20,5,95.0,UPI,PharmaLink,182,2026-06-17,Siliguri
+INV0103,2025-02-03,CUST073,Female,67,ORS,Hydration,Cipla,3,180,15,459.0,Card,CareDist,195,2026-02-20,Howrah
+INV0104,2025-04-06,CUST056,Female,52,Amoxicillin,Antibiotic,Abbott,3,250,15,637.5,Cash,MediSupply,129,2026-07-24,Siliguri
+INV0105,2025-01-01,CUST027,Male,69,Azithromycin,Antibiotic,Pfizer,5,20,5,95.0,UPI,MediSupply,12,2026-04-28,Durgapur
+INV0106,2025-06-26,CUST067,Male,62,Paracetamol,Pain Relief,Pfizer,4,120,0,480.0,Cash,PharmaLink,58,2026-02-27,Durgapur
+INV0107,2025-01-08,CUST002,Female,23,Amoxicillin,Antibiotic,Cipla,2,250,10,450.0,Card,MediSupply,8,2026-05-16,Howrah
+INV0108,2025-05-27,CUST060,Male,51,Vitamin C,Vitamin,Mankind,3,250,15,637.5,Card,PharmaLink,145,2026-01-04,Durgapur
+INV0109,2025-05-30,CUST051,Male,72,Omeprazole,Gastric,Dr. Reddy's,5,120,5,570.0,Card,PharmaLink,90,2026-05-21,Durgapur
+INV0110,2025-04-02,CUST049,Male,43,Crocin,Pain Relief,Mankind,1,35,10,31.5,Cash,CareDist,18,2026-07-26,Durgapur
+INV0111,2025-01-23,CUST027,Female,41,Crocin,Pain Relief,Cipla,3,75,0,225.0,UPI,CareDist,52,2026-07-26,Durgapur
+INV0112,2025-03-05,CUST085,Female,24,Dolo 650,Pain Relief,Pfizer,2,120,5,228.0,Card,PharmaLink,129,2026-04-27,Durgapur
+INV0113,2025-02-14,CUST102,Female,58,Amoxicillin,Antibiotic,Dr. Reddy's,1,75,15,63.75,Card,HealthPlus,49,2026-11-20,Durgapur
+INV0114,2025-05-06,CUST021,Female,39,Cetirizine,Allergy,Pfizer,1,35,15,29.75,UPI,PharmaLink,199,2026-07-18,Kolkata
+INV0115,2025-06-16,CUST107,Female,64,Dolo 650,Pain Relief,Pfizer,5,180,0,900.0,Card,CareDist,143,2026-01-20,Howrah
+INV0116,2025-01-16,CUST111,Female,32,Crocin,Pain Relief,Cipla,2,35,5,66.5,Card,MediSupply,179,2026-05-01,Kolkata
+INV0117,2025-01-21,CUST029,Male,57,Cetirizine,Allergy,Abbott,5,35,0,175.0,Card,MediSupply,58,2026-11-15,Howrah
+INV0118,2025-01-08,CUST043,Male,61,Vitamin C,Vitamin,Sun Pharma,2,20,10,36.0,Card,MediSupply,84,2026-01-05,Kolkata
+INV0119,2025-01-14,CUST115,Female,69,Vitamin C,Vitamin,Dr. Reddy's,3,250,0,750.0,Cash,CareDist,128,2026-08-21,Kolkata
+INV0120,2025-01-09,CUST015,Male,18,Dolo 650,Pain Relief,Pfizer,3,20,10,54.0,UPI,CareDist,84,2026-01-07,Siliguri
+INV0121,2025-02-01,CUST055,Female,26,Azithromycin,Antibiotic,Pfizer,5,20,5,95.0,Cash,PharmaLink,13,2026-02-02,Howrah
+INV0122,2025-03-04,CUST011,Female,35,ORS,Hydration,Mankind,2,20,0,40.0,UPI,CareDist,23,2026-04-30,Kolkata
+INV0123,2025-01-02,CUST086,Female,56,Azithromycin,Antibiotic,Pfizer,4,120,15,408.0,Card,PharmaLink,102,2026-11-23,Kolkata
+INV0124,2025-05-12,CUST077,Male,51,Omeprazole,Gastric,Cipla,4,180,15,612.0,Cash,HealthPlus,60,2026-10-25,Howrah
+INV0125,2025-03-18,CUST092,Male,22,ORS,Hydration,Pfizer,4,180,10,648.0,UPI,CareDist,42,2026-11-01,Durgapur
+INV0126,2025-02-23,CUST023,Female,34,Cetirizine,Allergy,Sun Pharma,4,120,10,432.0,Cash,PharmaLink,41,2026-02-10,Durgapur
+INV0127,2025-03-27,CUST006,Male,62,Crocin,Pain Relief,Abbott,2,250,0,500.0,Card,PharmaLink,159,2026-10-21,Durgapur
+INV0128,2025-01-17,CUST060,Female,51,Vitamin C,Vitamin,Pfizer,5,120,0,600.0,Card,HealthPlus,40,2026-02-28,Kolkata
+INV0129,2025-03-22,CUST100,Male,75,Vitamin C,Vitamin,Sun Pharma,1,35,15,29.75,UPI,CareDist,46,2026-06-14,Siliguri
+INV0130,2025-04-15,CUST023,Female,74,Crocin,Pain Relief,Dr. Reddy's,1,50,0,50.0,UPI,PharmaLink,34,2026-09-26,Durgapur
+INV0131,2025-02-15,CUST037,Female,62,Dolo 650,Pain Relief,Cipla,4,120,0,480.0,UPI,HealthPlus,8,2026-05-22,Durgapur
+INV0132,2025-06-22,CUST064,Female,49,Paracetamol,Pain Relief,Cipla,2,50,0,100.0,UPI,CareDist,135,2026-12-15,Kolkata
+INV0133,2025-04-03,CUST073,Male,30,Vitamin C,Vitamin,Sun Pharma,3,20,0,60.0,Card,MediSupply,67,2026-08-20,Siliguri
+INV0134,2025-05-07,CUST089,Male,33,Dolo 650,Pain Relief,Mankind,4,250,5,950.0,Card,MediSupply,137,2026-11-30,Siliguri
+INV0135,2025-04-10,CUST085,Male,39,Crocin,Pain Relief,Abbott,3,50,5,142.5,UPI,MediSupply,34,2026-08-10,Siliguri
+INV0136,2025-05-18,CUST059,Male,53,Crocin,Pain Relief,Sun Pharma,2,120,0,240.0,Card,MediSupply,56,2026-10-15,Siliguri
+INV0137,2025-02-28,CUST033,Female,19,Crocin,Pain Relief,Cipla,3,20,5,57.0,Card,PharmaLink,163,2026-01-14,Durgapur
+INV0138,2025-04-17,CUST008,Male,41,Vitamin C,Vitamin,Abbott,4,35,10,126.0,UPI,HealthPlus,151,2026-10-11,Durgapur
+INV0139,2025-01-05,CUST088,Male,60,Azithromycin,Antibiotic,Pfizer,3,250,10,675.0,Card,CareDist,48,2026-12-11,Durgapur
+INV0140,2025-02-17,CUST058,Male,30,Paracetamol,Pain Relief,Pfizer,3,75,0,225.0,Cash,MediSupply,95,2026-10-18,Siliguri
+INV0141,2025-06-28,CUST103,Male,52,Pantoprazole,Gastric,Dr. Reddy's,5,120,10,540.0,UPI,PharmaLink,168,2026-03-28,Howrah
+INV0142,2025-06-20,CUST030,Female,72,Azithromycin,Antibiotic,Cipla,4,20,15,68.0,Cash,HealthPlus,163,2026-08-24,Howrah
+INV0143,2025-06-29,CUST028,Female,55,Azithromycin,Antibiotic,Abbott,4,50,5,190.0,Cash,CareDist,192,2026-09-23,Howrah
+INV0144,2025-04-13,CUST013,Male,20,Amoxicillin,Antibiotic,Dr. Reddy's,3,50,10,135.0,Cash,MediSupply,170,2026-03-14,Siliguri
+INV0145,2025-02-23,CUST061,Male,47,Cetirizine,Allergy,Dr. Reddy's,1,35,10,31.5,UPI,HealthPlus,109,2026-09-05,Howrah
+INV0146,2025-02-21,CUST056,Male,51,Crocin,Pain Relief,Sun Pharma,4,250,5,950.0,Cash,CareDist,129,2026-07-28,Siliguri
+INV0147,2025-01-23,CUST085,Male,42,Vitamin C,Vitamin,Mankind,3,180,15,459.0,Cash,PharmaLink,157,2026-12-07,Siliguri
+INV0148,2025-06-08,CUST017,Female,22,Amoxicillin,Antibiotic,Sun Pharma,1,250,5,237.5,Card,MediSupply,144,2026-11-21,Siliguri
+INV0149,2025-03-04,CUST115,Male,30,Cetirizine,Allergy,Pfizer,5,180,10,810.0,Card,PharmaLink,35,2026-02-04,Kolkata
+INV0150,2025-04-14,CUST107,Male,32,Cetirizine,Allergy,Cipla,5,180,10,810.0,Cash,PharmaLink,116,2026-01-12,Kolkata
+INV0151,2025-02-22,CUST079,Male,53,Paracetamol,Pain Relief,Cipla,1,35,5,33.25,UPI,MediSupply,198,2026-12-19,Siliguri
+INV0152,2025-01-21,CUST091,Female,57,Dolo 650,Pain Relief,Mankind,2,20,0,40.0,Cash,HealthPlus,177,2026-03-09,Kolkata
+INV0153,2025-06-03,CUST015,Male,30,Vitamin C,Vitamin,Sun Pharma,2,20,5,38.0,Card,CareDist,168,2026-12-24,Howrah
+INV0154,2025-04-26,CUST102,Female,22,ORS,Hydration,Dr. Reddy's,3,120,5,342.0,Card,MediSupply,44,2026-02-24,Siliguri
+INV0155,2025-01-11,CUST083,Female,53,Omeprazole,Gastric,Dr. Reddy's,3,75,10,202.5,UPI,PharmaLink,96,2026-07-15,Howrah
+INV0156,2025-06-16,CUST050,Female,59,Crocin,Pain Relief,Pfizer,4,35,10,126.0,Card,PharmaLink,152,2026-08-23,Siliguri
+INV0157,2025-03-22,CUST085,Male,72,Vitamin C,Vitamin,Abbott,2,50,5,95.0,Card,PharmaLink,26,2026-11-18,Siliguri
+INV0158,2025-03-16,CUST119,Female,26,ORS,Hydration,Mankind,4,75,10,270.0,Card,CareDist,171,2026-02-14,Howrah
+INV0159,2025-06-21,CUST007,Male,53,Vitamin C,Vitamin,Mankind,2,120,0,240.0,Card,CareDist,23,2026-01-26,Howrah
+INV0160,2025-03-04,CUST036,Male,75,Cetirizine,Allergy,Mankind,5,120,0,600.0,Cash,CareDist,54,2026-06-19,Siliguri
+INV0161,2025-01-11,CUST111,Female,27,Omeprazole,Gastric,Cipla,4,250,15,850.0,Card,MediSupply,191,2026-03-28,Durgapur
+INV0162,2025-04-21,CUST064,Female,48,Cetirizine,Allergy,Pfizer,1,20,10,18.0,UPI,MediSupply,146,2026-12-19,Kolkata
+INV0163,2025-05-20,CUST026,Female,67,Azithromycin,Antibiotic,Dr. Reddy's,1,250,0,250.0,UPI,HealthPlus,58,2026-06-01,Durgapur
+INV0164,2025-04-19,CUST116,Female,55,Vitamin C,Vitamin,Cipla,4,20,10,72.0,Card,PharmaLink,185,2026-02-15,Kolkata
+INV0165,2025-01-11,CUST111,Male,69,Dolo 650,Pain Relief,Abbott,3,75,10,202.5,Card,MediSupply,65,2026-10-29,Siliguri
+INV0166,2025-04-06,CUST038,Female,60,Azithromycin,Antibiotic,Pfizer,3,180,5,513.0,Card,MediSupply,183,2026-05-04,Howrah
+INV0167,2025-04-21,CUST052,Female,23,Amoxicillin,Antibiotic,Sun Pharma,5,50,15,212.5,Cash,CareDist,166,2026-02-10,Durgapur
+INV0168,2025-03-29,CUST039,Male,64,Cetirizine,Allergy,Dr. Reddy's,4,250,5,950.0,UPI,HealthPlus,133,2026-01-23,Howrah
+INV0169,2025-04-29,CUST101,Female,43,Vitamin C,Vitamin,Mankind,5,50,10,225.0,Card,CareDist,57,2026-10-04,Howrah
+INV0170,2025-05-14,CUST080,Male,48,Cetirizine,Allergy,Pfizer,4,250,5,950.0,Card,HealthPlus,165,2026-02-20,Durgapur
+INV0171,2025-05-24,CUST120,Female,68,Pantoprazole,Gastric,Cipla,3,120,15,306.0,Cash,HealthPlus,123,2026-02-21,Durgapur
+INV0172,2025-04-10,CUST100,Female,73,Dolo 650,Pain Relief,Dr. Reddy's,5,20,15,85.0,UPI,HealthPlus,94,2026-07-03,Siliguri
+INV0173,2025-02-03,CUST092,Female,34,Paracetamol,Pain Relief,Cipla,3,50,0,150.0,UPI,MediSupply,184,2026-03-15,Howrah
+INV0174,2025-05-04,CUST008,Female,19,Omeprazole,Gastric,Sun Pharma,4,75,0,300.0,Cash,HealthPlus,50,2026-01-16,Durgapur
+INV0175,2025-02-22,CUST083,Female,49,Cetirizine,Allergy,Sun Pharma,3,50,0,150.0,Cash,MediSupply,77,2026-12-31,Siliguri
+INV0176,2025-02-14,CUST069,Female,61,Dolo 650,Pain Relief,Sun Pharma,5,180,10,810.0,Card,CareDist,159,2026-08-21,Siliguri
+INV0177,2025-05-08,CUST078,Female,41,ORS,Hydration,Mankind,5,75,15,318.75,UPI,MediSupply,26,2026-12-22,Durgapur
+INV0178,2025-03-17,CUST046,Male,44,Omeprazole,Gastric,Abbott,4,50,10,180.0,Card,CareDist,94,2026-11-30,Howrah
+INV0179,2025-03-05,CUST027,Male,29,Amoxicillin,Antibiotic,Dr. Reddy's,2,35,15,59.5,UPI,HealthPlus,156,2026-04-29,Kolkata
+INV0180,2025-06-12,CUST119,Male,67,Cetirizine,Allergy,Mankind,4,180,10,648.0,UPI,CareDist,108,2026-05-28,Kolkata
+INV0181,2025-05-12,CUST054,Male,64,Dolo 650,Pain Relief,Abbott,2,75,10,135.0,Cash,CareDist,115,2026-04-15,Kolkata
+INV0182,2025-01-21,CUST088,Male,62,Azithromycin,Antibiotic,Sun Pharma,3,75,10,202.5,Cash,PharmaLink,27,2026-04-25,Siliguri
+INV0183,2025-04-05,CUST092,Male,41,Omeprazole,Gastric,Cipla,3,20,10,54.0,Cash,CareDist,133,2026-04-28,Siliguri
+INV0184,2025-03-27,CUST053,Male,73,ORS,Hydration,Cipla,4,180,5,684.0,Card,PharmaLink,107,2026-09-20,Durgapur
+INV0185,2025-06-06,CUST068,Female,19,Amoxicillin,Antibiotic,Dr. Reddy's,5,180,0,900.0,Cash,HealthPlus,132,2026-03-10,Kolkata
+INV0186,2025-06-29,CUST104,Male,59,Crocin,Pain Relief,Dr. Reddy's,1,120,0,120.0,UPI,CareDist,68,2026-05-17,Durgapur
+INV0187,2025-01-01,CUST102,Female,55,Amoxicillin,Antibiotic,Abbott,4,20,5,76.0,UPI,PharmaLink,161,2026-07-03,Durgapur
+INV0188,2025-01-02,CUST062,Male,25,Dolo 650,Pain Relief,Abbott,1,180,10,162.0,Card,HealthPlus,14,2026-03-18,Siliguri
+INV0189,2025-02-18,CUST045,Female,62,Vitamin C,Vitamin,Sun Pharma,5,180,10,810.0,Cash,HealthPlus,124,2026-01-31,Kolkata
+INV0190,2025-05-25,CUST039,Male,56,Amoxicillin,Antibiotic,Pfizer,3,50,0,150.0,UPI,HealthPlus,87,2026-04-29,Kolkata
+INV0191,2025-01-06,CUST045,Male,67,Vitamin C,Vitamin,Cipla,4,35,0,140.0,Card,MediSupply,182,2026-08-12,Kolkata
+INV0192,2025-03-09,CUST039,Female,46,Amoxicillin,Antibiotic,Cipla,3,50,0,150.0,UPI,CareDist,27,2026-09-29,Howrah
+INV0193,2025-05-18,CUST084,Male,43,Vitamin C,Vitamin,Dr. Reddy's,4,75,10,270.0,Cash,PharmaLink,199,2026-01-08,Kolkata
+INV0194,2025-04-06,CUST102,Female,38,Cetirizine,Allergy,Mankind,5,20,0,100.0,Cash,PharmaLink,34,2026-11-20,Howrah
+INV0195,2025-04-01,CUST061,Male,59,Dolo 650,Pain Relief,Pfizer,2,75,10,135.0,UPI,PharmaLink,113,2026-04-04,Howrah
+INV0196,2025-03-22,CUST106,Female,29,Crocin,Pain Relief,Pfizer,5,20,5,95.0,Cash,PharmaLink,26,2026-10-23,Howrah
+INV0197,2025-01-02,CUST116,Female,22,Omeprazole,Gastric,Abbott,4,250,15,850.0,Cash,PharmaLink,120,2026-02-28,Kolkata
+INV0198,2025-04-23,CUST048,Female,31,Azithromycin,Antibiotic,Abbott,4,20,5,76.0,Cash,HealthPlus,76,2026-11-05,Durgapur
+INV0199,2025-03-07,CUST034,Male,25,Azithromycin,Antibiotic,Pfizer,3,250,5,712.5,Card,HealthPlus,123,2026-01-18,Siliguri
+INV0200,2025-06-24,CUST048,Female,60,Omeprazole,Gastric,Dr. Reddy's,2,35,15,59.5,Card,PharmaLink,119,2026-05-11,Durgapur
+INV0201,2025-02-26,CUST017,Female,38,Azithromycin,Antibiotic,Sun Pharma,2,120,10,216.0,UPI,CareDist,141,2026-05-16,Howrah
+INV0202,2025-06-07,CUST083,Male,67,Amoxicillin,Antibiotic,Abbott,4,120,10,432.0,UPI,MediSupply,80,2026-09-23,Durgapur
+INV0203,2025-05-06,CUST027,Female,31,Vitamin C,Vitamin,Dr. Reddy's,3,250,0,750.0,Card,CareDist,85,2026-10-22,Durgapur
+INV0204,2025-03-09,CUST052,Female,64,Amoxicillin,Antibiotic,Mankind,3,75,5,213.75,UPI,CareDist,159,2026-06-08,Kolkata
+INV0205,2025-01-10,CUST069,Female,34,Crocin,Pain Relief,Sun Pharma,5,20,10,90.0,UPI,CareDist,191,2026-01-19,Kolkata
+INV0206,2025-02-02,CUST118,Male,66,Pantoprazole,Gastric,Pfizer,2,35,0,70.0,Cash,CareDist,148,2026-07-24,Kolkata
+INV0207,2025-05-10,CUST112,Female,29,Omeprazole,Gastric,Pfizer,5,50,15,212.5,Cash,HealthPlus,100,2026-07-12,Howrah
+INV0208,2025-06-06,CUST022,Male,71,Cetirizine,Allergy,Mankind,2,120,5,228.0,Cash,MediSupply,103,2026-01-07,Durgapur
+INV0209,2025-02-17,CUST108,Male,30,Amoxicillin,Antibiotic,Cipla,1,180,0,180.0,Card,PharmaLink,179,2026-04-27,Howrah
+INV0210,2025-01-27,CUST005,Male,40,Paracetamol,Pain Relief,Dr. Reddy's,3,120,5,342.0,Card,PharmaLink,46,2026-01-15,Kolkata
+INV0211,2025-04-08,CUST093,Male,29,Azithromycin,Antibiotic,Sun Pharma,3,120,15,306.0,Cash,CareDist,30,2026-02-16,Howrah
+INV0212,2025-06-15,CUST075,Female,45,Cetirizine,Allergy,Sun Pharma,1,250,0,250.0,UPI,HealthPlus,24,2026-08-31,Siliguri
+INV0213,2025-06-19,CUST021,Male,57,ORS,Hydration,Dr. Reddy's,3,35,15,89.25,Cash,CareDist,108,2026-11-27,Kolkata
+INV0214,2025-04-30,CUST013,Female,55,Paracetamol,Pain Relief,Sun Pharma,1,20,10,18.0,Cash,HealthPlus,24,2026-10-14,Durgapur
+INV0215,2025-04-29,CUST096,Female,41,Vitamin C,Vitamin,Cipla,3,75,5,213.75,Card,HealthPlus,16,2026-09-25,Durgapur
+INV0216,2025-02-05,CUST075,Male,26,Vitamin C,Vitamin,Sun Pharma,4,20,5,76.0,Cash,PharmaLink,52,2026-09-16,Durgapur
+INV0217,2025-02-07,CUST016,Male,27,Cetirizine,Allergy,Abbott,4,20,0,80.0,Card,HealthPlus,125,2026-04-19,Howrah
+INV0218,2025-04-30,CUST093,Female,19,ORS,Hydration,Cipla,5,180,15,765.0,Cash,MediSupply,11,2026-10-22,Siliguri
+INV0219,2025-03-26,CUST120,Male,69,ORS,Hydration,Abbott,1,250,10,225.0,Card,MediSupply,25,2026-09-21,Howrah
+INV0220,2025-06-19,CUST089,Male,55,Amoxicillin,Antibiotic,Mankind,2,20,5,38.0,UPI,CareDist,107,2026-02-12,Howrah
+INV0221,2025-04-25,CUST113,Female,44,Amoxicillin,Antibiotic,Pfizer,1,20,15,17.0,UPI,HealthPlus,89,2027-01-01,Siliguri
+INV0222,2025-02-08,CUST118,Male,49,Crocin,Pain Relief,Abbott,4,75,10,270.0,Card,MediSupply,34,2026-03-21,Kolkata
+INV0223,2025-05-01,CUST068,Female,22,Cetirizine,Allergy,Cipla,2,180,10,324.0,UPI,CareDist,84,2026-04-13,Howrah
+INV0224,2025-05-21,CUST111,Female,73,ORS,Hydration,Cipla,5,180,15,765.0,Card,PharmaLink,7,2026-08-09,Siliguri
+INV0225,2025-04-02,CUST033,Male,75,Crocin,Pain Relief,Mankind,5,20,0,100.0,UPI,PharmaLink,108,2026-03-06,Howrah
+INV0226,2025-01-04,CUST031,Female,34,Paracetamol,Pain Relief,Dr. Reddy's,4,35,0,140.0,UPI,HealthPlus,61,2026-04-06,Kolkata
+INV0227,2025-05-01,CUST081,Male,66,Amoxicillin,Antibiotic,Cipla,5,75,0,375.0,Card,MediSupply,192,2026-12-28,Siliguri
+INV0228,2025-02-01,CUST095,Female,74,Pantoprazole,Gastric,Abbott,3,35,15,89.25,Card,MediSupply,123,2026-12-25,Kolkata
+INV0229,2025-05-01,CUST116,Male,35,Pantoprazole,Gastric,Cipla,5,180,0,900.0,UPI,HealthPlus,72,2026-11-12,Kolkata
+INV0230,2025-05-29,CUST100,Female,51,Omeprazole,Gastric,Dr. Reddy's,1,120,15,102.0,Card,MediSupply,34,2026-05-23,Siliguri
+INV0231,2025-02-11,CUST038,Female,62,Dolo 650,Pain Relief,Dr. Reddy's,4,250,0,1000.0,UPI,PharmaLink,110,2026-02-05,Durgapur
+INV0232,2025-06-08,CUST039,Female,57,ORS,Hydration,Cipla,3,50,0,150.0,Cash,MediSupply,142,2026-06-13,Siliguri
+INV0233,2025-02-01,CUST111,Female,55,Amoxicillin,Antibiotic,Sun Pharma,4,180,10,648.0,UPI,PharmaLink,130,2026-11-16,Durgapur
+INV0234,2025-01-15,CUST107,Female,55,Vitamin C,Vitamin,Cipla,4,20,0,80.0,Card,PharmaLink,78,2026-07-29,Siliguri
+INV0235,2025-06-09,CUST053,Male,21,Azithromycin,Antibiotic,Sun Pharma,2,35,10,63.0,UPI,MediSupply,174,2026-05-06,Kolkata
+INV0236,2025-04-02,CUST048,Female,56,ORS,Hydration,Abbott,1,180,0,180.0,Cash,CareDist,56,2026-10-19,Kolkata
+INV0237,2025-06-20,CUST033,Male,39,Omeprazole,Gastric,Pfizer,2,180,15,306.0,UPI,PharmaLink,12,2026-08-27,Siliguri
+INV0238,2025-05-25,CUST059,Female,36,Dolo 650,Pain Relief,Sun Pharma,4,75,5,285.0,UPI,HealthPlus,138,2026-01-24,Durgapur
+INV0239,2025-01-30,CUST108,Female,73,Cetirizine,Allergy,Sun Pharma,3,35,5,99.75,Cash,CareDist,38,2026-11-29,Howrah
+INV0240,2025-04-15,CUST093,Male,21,Vitamin C,Vitamin,Pfizer,4,35,15,119.0,Cash,MediSupply,37,2026-04-22,Siliguri
+INV0241,2025-02-06,CUST103,Female,19,Vitamin C,Vitamin,Mankind,5,20,10,90.0,Cash,HealthPlus,30,2026-02-14,Durgapur
+INV0242,2025-02-22,CUST006,Female,63,Vitamin C,Vitamin,Mankind,1,180,5,171.0,Card,CareDist,14,2026-04-24,Siliguri
+INV0243,2025-05-25,CUST032,Female,46,Cetirizine,Allergy,Cipla,1,250,5,237.5,Card,HealthPlus,24,2026-01-11,Durgapur
+INV0244,2025-02-23,CUST035,Female,36,Cetirizine,Allergy,Pfizer,5,180,0,900.0,Card,CareDist,168,2026-04-03,Siliguri
+INV0245,2025-06-06,CUST055,Female,75,ORS,Hydration,Cipla,5,50,10,225.0,UPI,HealthPlus,6,2026-05-31,Siliguri
+INV0246,2025-06-23,CUST120,Male,73,Azithromycin,Antibiotic,Pfizer,2,50,15,85.0,UPI,MediSupply,95,2026-04-21,Howrah
+INV0247,2025-01-10,CUST027,Female,41,Pantoprazole,Gastric,Pfizer,2,180,0,360.0,Card,HealthPlus,103,2026-11-22,Kolkata
+INV0248,2025-02-02,CUST011,Male,56,Amoxicillin,Antibiotic,Mankind,3,120,0,360.0,Cash,PharmaLink,17,2026-01-09,Kolkata
+INV0249,2025-05-04,CUST100,Male,71,Azithromycin,Antibiotic,Abbott,4,180,0,720.0,Cash,CareDist,119,2026-02-11,Siliguri
+INV0250,2025-05-28,CUST067,Male,70,Crocin,Pain Relief,Cipla,1,180,0,180.0,Card,PharmaLink,166,2026-04-10,Howrah
+INV0251,2025-01-15,CUST018,Female,44,Crocin,Pain Relief,Abbott,3,120,0,360.0,Card,HealthPlus,61,2026-10-16,Durgapur
+INV0252,2025-05-11,CUST112,Female,58,Pantoprazole,Gastric,Cipla,1,250,0,250.0,Cash,HealthPlus,124,2026-07-21,Howrah
+INV0253,2025-02-02,CUST056,Male,73,Pantoprazole,Gastric,Sun Pharma,4,75,10,270.0,UPI,MediSupply,45,2026-01-19,Durgapur
+INV0254,2025-06-07,CUST087,Female,64,Vitamin C,Vitamin,Pfizer,4,35,10,126.0,UPI,MediSupply,186,2026-04-17,Durgapur
+INV0255,2025-02-07,CUST071,Male,21,Cetirizine,Allergy,Dr. Reddy's,3,75,5,213.75,Card,MediSupply,189,2026-03-05,Howrah
+INV0256,2025-02-04,CUST015,Male,53,Pantoprazole,Gastric,Dr. Reddy's,4,180,15,612.0,Card,PharmaLink,112,2026-10-23,Siliguri
+INV0257,2025-03-06,CUST101,Male,31,Vitamin C,Vitamin,Dr. Reddy's,5,35,5,166.25,Cash,HealthPlus,181,2026-03-01,Durgapur
+INV0258,2025-03-23,CUST030,Male,62,Omeprazole,Gastric,Sun Pharma,2,35,5,66.5,UPI,HealthPlus,30,2026-04-21,Kolkata
+INV0259,2025-01-17,CUST045,Male,21,Azithromycin,Antibiotic,Abbott,4,180,5,684.0,Card,PharmaLink,55,2026-07-26,Siliguri
+INV0260,2025-04-18,CUST116,Female,71,Crocin,Pain Relief,Dr. Reddy's,3,75,0,225.0,Card,CareDist,119,2026-10-29,Siliguri
+INV0261,2025-05-11,CUST048,Male,47,Cetirizine,Allergy,Pfizer,4,180,15,612.0,Card,PharmaLink,98,2026-05-06,Kolkata
+INV0262,2025-04-08,CUST106,Male,24,ORS,Hydration,Mankind,4,20,5,76.0,Cash,HealthPlus,81,2026-07-14,Siliguri
+INV0263,2025-02-27,CUST056,Female,29,Cetirizine,Allergy,Pfizer,2,250,5,475.0,Cash,PharmaLink,40,2026-01-26,Durgapur
+INV0264,2025-01-28,CUST014,Male,18,Crocin,Pain Relief,Pfizer,1,20,10,18.0,Card,HealthPlus,46,2026-03-09,Durgapur
+INV0265,2025-01-02,CUST044,Male,54,Dolo 650,Pain Relief,Abbott,1,50,10,45.0,Cash,CareDist,86,2026-03-16,Howrah
+INV0266,2025-02-16,CUST032,Male,51,Amoxicillin,Antibiotic,Cipla,5,180,10,810.0,Cash,CareDist,58,2026-02-10,Siliguri
+INV0267,2025-06-29,CUST021,Male,58,Omeprazole,Gastric,Abbott,3,35,0,105.0,Cash,PharmaLink,39,2026-09-06,Kolkata
+INV0268,2025-01-06,CUST113,Male,33,Azithromycin,Antibiotic,Abbott,1,50,0,50.0,Card,MediSupply,58,2026-07-17,Siliguri
+INV0269,2025-02-04,CUST087,Male,68,Omeprazole,Gastric,Dr. Reddy's,4,250,10,900.0,Card,CareDist,200,2026-05-01,Durgapur
+INV0270,2025-01-21,CUST103,Male,40,Vitamin C,Vitamin,Cipla,4,75,5,285.0,UPI,MediSupply,190,2026-11-16,Howrah
+INV0271,2025-02-22,CUST057,Male,73,Amoxicillin,Antibiotic,Mankind,5,75,10,337.5,UPI,CareDist,107,2026-08-13,Siliguri
+INV0272,2025-01-01,CUST056,Male,37,Cetirizine,Allergy,Abbott,3,120,0,360.0,UPI,PharmaLink,72,2026-06-21,Howrah
+INV0273,2025-06-08,CUST103,Male,53,Pantoprazole,Gastric,Sun Pharma,3,50,5,142.5,Cash,CareDist,70,2026-12-13,Durgapur
+INV0274,2025-04-28,CUST021,Female,45,Paracetamol,Pain Relief,Sun Pharma,4,35,10,126.0,Card,CareDist,134,2026-10-23,Durgapur
+INV0275,2025-06-25,CUST067,Male,67,Crocin,Pain Relief,Pfizer,1,20,15,17.0,UPI,MediSupply,173,2026-11-24,Siliguri
+INV0276,2025-05-20,CUST110,Male,73,Vitamin C,Vitamin,Pfizer,1,75,0,75.0,UPI,CareDist,87,2026-02-27,Howrah
+INV0277,2025-05-24,CUST119,Female,68,Crocin,Pain Relief,Abbott,4,20,15,68.0,Cash,HealthPlus,80,2026-03-07,Howrah
+INV0278,2025-03-10,CUST022,Male,22,Pantoprazole,Gastric,Dr. Reddy's,3,35,15,89.25,UPI,CareDist,155,2026-07-22,Siliguri
+INV0279,2025-04-23,CUST091,Female,36,Crocin,Pain Relief,Dr. Reddy's,2,75,5,142.5,UPI,MediSupply,132,2026-03-10,Siliguri
+INV0280,2025-02-17,CUST011,Female,23,Pantoprazole,Gastric,Mankind,4,20,5,76.0,Cash,PharmaLink,49,2026-01-27,Kolkata
+INV0281,2025-01-26,CUST042,Male,61,Paracetamol,Pain Relief,Dr. Reddy's,2,50,10,90.0,Card,PharmaLink,168,2026-01-06,Siliguri
+INV0282,2025-01-30,CUST112,Female,61,Azithromycin,Antibiotic,Pfizer,1,250,10,225.0,Cash,PharmaLink,109,2026-02-16,Durgapur
+INV0283,2025-02-22,CUST020,Female,71,Omeprazole,Gastric,Pfizer,5,120,10,540.0,UPI,CareDist,100,2026-12-23,Kolkata
+INV0284,2025-06-27,CUST108,Male,52,Vitamin C,Vitamin,Abbott,2,180,15,306.0,Card,HealthPlus,10,2026-07-11,Siliguri
+INV0285,2025-03-01,CUST118,Female,59,Dolo 650,Pain Relief,Cipla,5,120,15,510.0,UPI,PharmaLink,105,2026-05-24,Siliguri
+INV0286,2025-05-19,CUST076,Male,41,Omeprazole,Gastric,Abbott,4,75,0,300.0,UPI,HealthPlus,68,2026-07-25,Howrah
+INV0287,2025-03-13,CUST052,Female,71,ORS,Hydration,Cipla,5,75,15,318.75,UPI,CareDist,164,2026-10-20,Howrah
+INV0288,2025-05-15,CUST105,Female,19,Omeprazole,Gastric,Cipla,2,75,15,127.5,Cash,MediSupply,92,2026-07-30,Siliguri
+INV0289,2025-03-23,CUST019,Male,64,Vitamin C,Vitamin,Mankind,1,20,10,18.0,Cash,PharmaLink,151,2026-12-03,Durgapur
+INV0290,2025-03-31,CUST039,Male,62,Amoxicillin,Antibiotic,Cipla,5,50,5,237.5,UPI,CareDist,69,2026-04-10,Howrah
+INV0291,2025-06-23,CUST084,Female,57,Omeprazole,Gastric,Sun Pharma,1,250,5,237.5,Cash,MediSupply,154,2026-01-09,Durgapur
+INV0292,2025-02-05,CUST018,Female,36,Crocin,Pain Relief,Mankind,3,120,0,360.0,UPI,MediSupply,65,2026-11-27,Siliguri
+INV0293,2025-05-06,CUST028,Male,42,Omeprazole,Gastric,Sun Pharma,5,50,5,237.5,Card,CareDist,134,2026-10-30,Durgapur
+INV0294,2025-02-02,CUST030,Female,62,Azithromycin,Antibiotic,Pfizer,5,75,0,375.0,Cash,HealthPlus,134,2026-11-15,Durgapur
+INV0295,2025-04-30,CUST069,Female,66,Dolo 650,Pain Relief,Dr. Reddy's,1,75,0,75.0,Cash,MediSupply,93,2026-11-09,Howrah
+INV0296,2025-06-18,CUST107,Male,20,Paracetamol,Pain Relief,Cipla,5,180,5,855.0,UPI,MediSupply,60,2026-07-22,Siliguri
+INV0297,2025-04-20,CUST052,Male,33,Cetirizine,Allergy,Dr. Reddy's,3,75,5,213.75,Cash,PharmaLink,98,2026-04-01,Siliguri
+INV0298,2025-03-21,CUST088,Female,56,Azithromycin,Antibiotic,Dr. Reddy's,3,250,0,750.0,UPI,HealthPlus,58,2026-04-16,Howrah
+INV0299,2025-04-27,CUST002,Female,62,Dolo 650,Pain Relief,Abbott,5,75,0,375.0,UPI,PharmaLink,58,2026-06-22,Durgapur
+INV0300,2025-05-05,CUST022,Female,31,Azithromycin,Antibiotic,Abbott,2,50,5,95.0,UPI,HealthPlus,143,2026-03-15,Howrah
